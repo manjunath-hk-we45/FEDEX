@@ -6,7 +6,7 @@ In this section we will explain the approach we took to test a windows thick cli
 
 ###  Learning about Host - Network Scanning
 
-Initially we tried external testing of the machine i.e., we considered Host \(application was installed and running on host during this process\) instead of the application, hence we used **NMAP** with some scripts so that we can see if any open ports are made available by host or by application which can act as our entry point to the host, but unfortunately none were. then we tested host with Nessus and OpenVAS for vulnerability but host was hardened enough so we were not able to find any critical issues which we could have been used to exploit.
+Initially we tried external testing of the machine, i.e., we considered Host \(application was installed and running on host during this process\) instead of the application, hence we used **NMAP** with some scripts so that we can see if any open ports are made available by the host or by an application which can act as our entry point to the host, but unfortunately none were. Then we tested the host with Nessus and OpenVAS for vulnerability but host was hardened enough so we were not able to find any critical issues which we could have been used to exploit.
 
 ### Learning about Application - Static and Dynamic Analysis
 
