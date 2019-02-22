@@ -8,6 +8,8 @@ A threat is something which can cause potential harm or it may have the potentia
 
 ### 💀 What is a Vulnerability?
 
+A Vulnerability is a weakness in a computing environment which can be exploited by an attacker in order to do unauthorized actions in the given computing environment. Every Vulnerability act as a threat vector and collection of this vector gives an attack surface for the computing environment.
+
 ### OWASP 
 
 OWASP provides us with list of vulnerabilities, which can be exploited for a thick client
