@@ -16,11 +16,11 @@ OWASP provides us with list of vulnerabilities, which can be exploited for a thi
 
 ![OWASP Thick client vulnerabilities](.gitbook/assets/screenshot-from-2019-02-21-12-08-34.png)
 
-###  What is Threat Modeling?
+###  ☠ What is Threat Modeling?
 
       Threat modeling is a planned activity for identifying and assessing application threats and vulnerabilities. Threat modeling improves the security by identifying objectives and vulnerabilities, and then defining countermeasures to prevent, or mitigate the effects of, threats to the system. 
 
-### Sample Threat Model & Test Cases
+### 🎁 Sample Threat Model & Test Cases
 
 {% file src=".gitbook/assets/thick-client-threat-model. pdf" caption="Click here to download sample threat model" %}
 
