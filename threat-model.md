@@ -1,12 +1,12 @@
 # THREAT MODEL & TEST CASES
 
-### What is a Threat?
+### 💀 What is a Threat?
 
 A threat is a potential or actual undesirable event that may be malicious \(such as DOS attack\) or incidental \(failure of a Storage Device\). 
 
 A threat is something which can cause potential harm or it may have the potential to cause harm to the computing environment. Threats vary from viruses, Trojans, backdoor to rootkits.
 
-### What is a Vulnerability?
+### 💀 What is a Vulnerability?
 
 ### OWASP 
 
