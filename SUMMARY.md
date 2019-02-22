@@ -8,7 +8,7 @@
 * [INTERCEPTION](interception.md)
 * [REVERSE ENGINEERING](reverse-engineering.md)
 * [THE PROCESS](tools.md)
-* [REMEDIES](remedies.md)
 * [TOOLS](tools-1.md)
+* [REMEDIES](remedies.md)
 * [THICK CLIENT TESTING MIND MAP](thick-client-testing-mind-map.md)
 
