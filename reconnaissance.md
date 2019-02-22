@@ -1,15 +1,15 @@
 # RECONNAISSANCE
 
-Reconnaissance is process in which we gather information about the application, and also of the host/client on which the application is running . 
+      🔦 Reconnaissance is process in which we gather information about the application, and also the host/client on which the application is running. To understand its functional and non functional requirements. 
 
-During the process we can recon at different levels
+Recon can be done at different levels of the computing environment for a thick client :
 
 * **Application level**
 * **Host level**
 * **Storage level**
 * **Network level**
 
-### Application Level
+### 💠 Application Level
 
 1. Improper error handling
 2. SQL Injection
@@ -22,20 +22,21 @@ During the process we can recon at different levels
 9. Buffer overflow 
 10. Digital signature verification \(SignTool\)
 
-### Host Level 
+### 💠Host Level 
 
 1. Cracking windows system Password
 2. Windows system  Privilege Escalation
 3. DLL Injection
 
-### Storage Level 
+### 💠Storage Level 
 
 1. Logs
 2. Cache files 
+3. Configuration files
 
-### Network Level
+### 💠Network Level
 
-1. Intercept network calls \(HTTP & TCP \)
+1. Intercept network calls \(HTTP, TCP or Sockets communication \)
 
 Some of the information we can get during this process are:
 
