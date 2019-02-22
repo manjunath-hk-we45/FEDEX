@@ -1,6 +1,6 @@
 # TOOLS
 
-### Reconnaissance 
+### ⚓ Reconnaissance 
 
 * Nmap
   * [https://nmap.org/download.html](https://nmap.org/download.html) 
@@ -11,7 +11,7 @@
 * SignTool
   * [https://docs.microsoft.com/en-us/windows/desktop/seccrypto/signtool](https://docs.microsoft.com/en-us/windows/desktop/seccrypto/signtool) 
 
-###  Intercepting the Traffic
+###  ⚓Intercepting the Traffic
 
 * Burp Suite 
   * [https://portswigger.net/burp/communitydownload](https://portswigger.net/burp/communitydownload)
@@ -22,7 +22,7 @@
 * Echo Mirage
   * [https://sourceforge.net/projects/echomirage.oldbutgold.p/](https://sourceforge.net/projects/echomirage.oldbutgold.p/) 
 
-### Traffic Analysis 
+### ⚓Traffic Analysis 
 
 * TCP Dump
   * [https://www.microolap.com/products/network/tcpdump/](https://www.microolap.com/products/network/tcpdump/) 
@@ -33,14 +33,14 @@
 * MicroSoft Message Analyzer
   * [https://www.microsoft.com/en-in/download/details.aspx?id=44226](https://www.microsoft.com/en-in/download/details.aspx?id=44226)
 
-### Static Analysis
+### ⚓Static Analysis
 
 * CFF explorer 
   * [https://download.cnet.com/CFF-Explorer/3000-2383\_4-10431156.html](https://download.cnet.com/CFF-Explorer/3000-2383_4-10431156.html) 
 * Sysinternals
   * [https://docs.microsoft.com/en-us/sysinternals/downloads/procmon](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon) 
 
-### Reverse Engineering
+### ⚓Reverse Engineering
 
 * OllyDBG
   * [http://www.ollydbg.de/download.htm](http://www.ollydbg.de/download.htm) 
@@ -49,12 +49,12 @@
 * Visual Studio
   * [https://visualstudio.microsoft.com/downloads/](https://visualstudio.microsoft.com/downloads/) 
 
-### Memory Analysis
+### ⚓Memory Analysis
 
 * Winhex
   * [https://winhex.en.softonic.com/](https://winhex.en.softonic.com/) 
 
-### Exploitation's 
+### ⚓Exploitation 
 
 * Kali linux
   * [https://docs.kali.org/downloading/kali-linux-live-usb-install](https://docs.kali.org/downloading/kali-linux-live-usb-install) 
