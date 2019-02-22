@@ -2,13 +2,13 @@
 
 ### 💀 What is a Threat?
 
-A threat is a potential or actual undesirable event that may be malicious \(such as DOS attack\) or incidental \(failure of a Storage Device\). 
+      A threat is a potential or actual undesirable event that may be malicious \(such as DOS attack\) or incidental \(failure of a Storage Device\). 
 
 A threat is something which can cause potential harm or it may have the potential to cause harm to the computing environment. Threats vary from viruses, Trojans, backdoor to rootkits.
 
 ### 💀 What is a Vulnerability?
 
-A Vulnerability is a weakness in a computing environment which can be exploited by an attacker in order to do unauthorized actions in the given computing environment. Every Vulnerability act as a threat vector and collection of this vector gives an attack surface for the computing environment.
+      A Vulnerability is a weakness in a computing environment which can be exploited by an attacker in order to do unauthorized actions in the given computing environment. Every Vulnerability act as a threat vector and collection of this vector gives an attack surface for the computing environment.
 
 ### OWASP 
 
@@ -16,9 +16,9 @@ OWASP provides us with list of vulnerabilities, which can be exploited for a thi
 
 ![OWASP Thick client vulnerabilities](.gitbook/assets/screenshot-from-2019-02-21-12-08-34.png)
 
-### What is Threat Modeling?
+###  What is Threat Modeling?
 
-Threat modeling is a planned activity for identifying and assessing application threats and vulnerabilities. Threat modeling improves the security by identifying objectives and vulnerabilities, and then defining countermeasures to prevent, or mitigate the effects of, threats to the system. 
+      Threat modeling is a planned activity for identifying and assessing application threats and vulnerabilities. Threat modeling improves the security by identifying objectives and vulnerabilities, and then defining countermeasures to prevent, or mitigate the effects of, threats to the system. 
 
 ### Sample Threat Model & Test Cases
 
