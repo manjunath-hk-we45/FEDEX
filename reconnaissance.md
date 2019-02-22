@@ -9,6 +9,14 @@ Recon can be done at different levels of the computing environment for a thick c
 * **Storage level**
 * **Network level**
 
+Some of the information we can get during this process are:
+
+* Application structure,  design, functionality and the way its built \(Technology stack\)
+* File and folder access done by the application
+* Application Network traffic to understand its communication with the server
+* Scanning for sensitive data stored in the application package, as application might have some information disclosure.
+* Information gathering regarding host is also important as we can check if we can exploit host vulnerability to exploit an application
+
 ### 💠 Application Level
 
 1. Improper error handling
@@ -38,13 +46,7 @@ Recon can be done at different levels of the computing environment for a thick c
 
 1. Intercept network calls \(HTTP, TCP or Sockets communication \)
 
-Some of the information we can get during this process are:
 
-* Application structure,  design, functionality and the way its built \(Technology stack\)
-* File and folder access done by the application
-* Application Network traffic to understand its communication with the server
-* Scanning for sensitive data stored in the application package, as application might have some information disclosure.
-* Information gathering regarding host is also important as we can check if we can exploit host vulnerability to exploit an application
 
 \*\*\*\*
 
