@@ -36,5 +36,5 @@ Password cracking needs ample amount time and lots of word-list file, instead us
 
       As the application, we tested was a subscriber based you officially cannot use the service for free, you have pay get subscribed and use it, but we explored the clients **GitHub repository** and were able get some working credentials!\(Information Disclosure\) which of course we used to make sure our attack impact grows and yes it worked for us we started using the service without paying.
 
-      _FYI, we also did tests for the web application for the client and we were able to get privilege escalation on the web portal to superuser so now you can link how free subscriber can become superuser for some organization which he is not affiliated to._
+      _FYI, we also did tests for the web application for the client and we were able to get privilege escalation on the application to superuser so now you can think how free subscriber can become superuser for some organization which he is not affiliated to._
 

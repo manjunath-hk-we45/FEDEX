@@ -29,7 +29,7 @@ We can get information from this process as follows:
 * PE Explorer
 * SysInternals suite from Microsoft
 
-#### **Disassembles** 
+#### **Disassembler** 
 
 A Powerful tool which can generate complete or part of assembly code for the given application. This process is processor/architecture specific. Some tools are:
 
