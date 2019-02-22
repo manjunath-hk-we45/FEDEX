@@ -22,7 +22,9 @@ Intercepting application traffic is a bit different than intercepting web applic
 
       Intercept data during application execution and also during initial installation of the application as we can, even intercept the initial server communication of the application as it might include server sending some sensitive information to the client which application can use it in future communication. \(We found a credential which server responded to the client, which client can use in its operational lifetime\)
 
-[https://www.paladion.net/blogs/thick-client-testing-toolkit-part-3-tools-testing-techniques-interception-testing](https://www.paladion.net/blogs/thick-client-testing-toolkit-part-3-tools-testing-techniques-interception-testing)
+{% embed url="https://www.paladion.net/blogs/thick-client-testing-toolkit-part-3-tools-testing-techniques-interception-testing" %}
+
+
 
 
 
